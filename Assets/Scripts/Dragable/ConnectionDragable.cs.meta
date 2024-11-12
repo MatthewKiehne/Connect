@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 828a01e3746a5934f9ad0873c45d3f0d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _UiLinePrefab: {fileID: 3195899031282713378, guid: 3a648e4f2bf6e0e4ba8dedcf0e91c87a, type: 3}
+  - _canvas: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
